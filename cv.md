@@ -2,7 +2,7 @@
 
 ## Contact Info
 
-#### lkhalatyan@gmail.com
+#### 0037493599924 | lkhalatyan@gmail.com
 
 ## Summary
 
