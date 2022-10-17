@@ -1,0 +1,29 @@
+* {
+  margin: 5px;
+}
+
+.body-container {
+  width: 60%;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-container {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-items {
+  width: 26%;
+  height: auto;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
